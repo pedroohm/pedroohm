@@ -1,8 +1,6 @@
 ### Olá, eu sou o Pedro!!
 
-- 🔭 Estudante de ciência da computação na UFV
-- 👨‍💻 Membro da No Bugs - Empresa júnior de computação
-- 🌱 Aprendendo a desenvolver para a web
+- 🔭 Curso ciência da computação na UFV
 
 ##
 
