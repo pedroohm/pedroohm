@@ -1,6 +1,7 @@
 ### Olá, eu sou o Pedro!!
 
-- 🔭 Curso ciência da computação na UFV
+- 🔭 Graduado em ciência da computação pela Universidade Federal de Viçosa
+- Desenvolvedor júnior na [Tarken](https://www.tarken.com.br/)
 
 ##
 
